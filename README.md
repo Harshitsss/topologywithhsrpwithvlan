@@ -3,9 +3,9 @@
 
 
 
-# 🖧 IT Startup Network Topology (Without DHCP)
+# 🖧 Network Topology (Without DHCP)
 
-This project simulates a basic IT startup network using **Cisco Packet Tracer**. It includes VLAN segmentation, HSRP for redundancy, and static IP addressing (no DHCP).
+This project simulates a basic  network using **Cisco Packet Tracer**. It includes VLAN segmentation, HSRP for redundancy, and static IP addressing (no DHCP).
 
 ## 🔧 Devices Used
 - 2 Multilayer Switches
